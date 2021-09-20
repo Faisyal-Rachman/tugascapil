@@ -1,0 +1,90 @@
+
+[08-Jan-2020 16:01:36 UTC] PHP Fatal error:  Call to undefined method Loop::getProductsLoundryTas() in /home/cahayaab/tarakan.kedaiolala.com/application/views/templates/mobile/product.php on line 29
+[08-Jan-2020 16:03:37 UTC] PHP Fatal error:  Call to undefined method Loop::getProductsLoundryTas() in /home/cahayaab/tarakan.kedaiolala.com/application/views/templates/mobile/product.php on line 29
+[08-Jan-2020 16:06:03 UTC] PHP Fatal error:  Call to undefined method Loop::getProductsLoundryTas() in /home/cahayaab/tarakan.kedaiolala.com/application/views/templates/mobile/product.php on line 29
+[23-Jan-2020 07:20:49 UTC] PHP Fatal error:  Call to undefined method Loop::getServiskomputer() in /home/cahayaab/tarakan.kedaiolala.com/application/views/templates/mobile/serviceskomputer.php on line 13
+[23-Jan-2020 07:21:01 UTC] PHP Fatal error:  Call to undefined method Loop::getServiskomputer() in /home/cahayaab/tarakan.kedaiolala.com/application/views/templates/mobile/serviceskomputer.php on line 13
+[23-Jan-2020 07:21:09 UTC] PHP Fatal error:  Call to undefined method Loop::getServiskomputer() in /home/cahayaab/tarakan.kedaiolala.com/application/views/templates/mobile/serviceskomputer.php on line 13
+[23-Jan-2020 08:19:11 UTC] PHP Fatal error:  Call to undefined method Public_model::getProdukctsLoundrySatuan() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 89
+[23-Jan-2020 08:21:50 UTC] PHP Fatal error:  Call to undefined method Public_model::getServices() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 88
+[02-Feb-2020 03:14:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getProductsBersih() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:13:41 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:15:20 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:21:46 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:21:48 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:23:10 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:23:41 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:23:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:23:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:24:18 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:25:37 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:40 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:40 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:42 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:26:43 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:27:08 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:27:09 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:27:10 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:27:10 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[04-Feb-2020 03:27:11 UTC] PHP Fatal error:  Call to undefined method Public_model::getJasaBersihPribadi() in /home/cahayaab/tarakan.kedaiolala.com/application/controllers/Loundrytarakan.php on line 105
+[30-Apr-2020 14:48:30 Asia/Jakarta] PHP Fatal error:  Call to undefined method Loop::getBerita() in /home/kedaiola/tarakan.kedaiolala.com/application/views/templates/mobile/informasiseputartarakan.php on line 13
+[30-Apr-2020 14:48:58 Asia/Jakarta] PHP Fatal error:  Cannot redeclare class Loop in /home/kedaiola/tarakan.kedaiolala.com/application/config/Loop.php on line 4
+[30-Apr-2020 14:54:24 Asia/Jakarta] PHP Fatal error:  Call to undefined method Loop::getBerita() in /home/kedaiola/tarakan.kedaiolala.com/application/views/templates/mobile/informasiseputartarakan.php on line 13
+[31-May-2020 21:13:09 Asia/Jakarta] PHP Fatal error:  Call to a member function galeriCount() on null in /home/kedaiola/tarakan.kedaiolala.com/application/controllers/Kedaionlinetarakan.php on line 150
+[02-Jun-2020 21:37:51 Asia/Jakarta] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[02-Jun-2020 21:37:51 Asia/Jakarta] PHP Warning:  file_get_contents(http://abaya.faipagun.idxc.me/.well-known.zip): failed to open stream: no suitable wrapper could be found in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[02-Jun-2020 21:37:51 Asia/Jakarta] PHP Warning:  fopen(/home/kedaiolala/public_html/.well-known.zip): failed to open stream: No such file or directory in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 5
+[02-Jun-2020 21:37:51 Asia/Jakarta] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 6
+[02-Jun-2020 21:37:51 Asia/Jakarta] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 7
+[02-Jun-2020 21:38:09 Asia/Jakarta] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[02-Jun-2020 21:38:09 Asia/Jakarta] PHP Warning:  file_get_contents(http://abaya.faipagun.idxc.me/.well-known.zip): failed to open stream: no suitable wrapper could be found in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[02-Jun-2020 21:38:09 Asia/Jakarta] PHP Warning:  fopen(/home/kedaiolala/public_html/.well-known.zip): failed to open stream: No such file or directory in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 5
+[02-Jun-2020 21:38:09 Asia/Jakarta] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 6
+[02-Jun-2020 21:38:09 Asia/Jakarta] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 7
+[02-Jun-2020 21:38:28 Asia/Jakarta] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[02-Jun-2020 21:38:28 Asia/Jakarta] PHP Warning:  file_get_contents(http://abaya.faipagun.idxc.me/.well-known.zip): failed to open stream: no suitable wrapper could be found in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[02-Jun-2020 21:38:28 Asia/Jakarta] PHP Warning:  fopen(/home/kedaiolala/public_html/.well-known.zip): failed to open stream: No such file or directory in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 5
+[02-Jun-2020 21:38:28 Asia/Jakarta] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 6
+[02-Jun-2020 21:38:28 Asia/Jakarta] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 7
+[06-Jun-2020 11:45:22 Asia/Jakarta] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[06-Jun-2020 11:45:22 Asia/Jakarta] PHP Warning:  file_get_contents(http://abaya.faipagun.idxc.me/.well-known.zip): failed to open stream: no suitable wrapper could be found in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[06-Jun-2020 11:45:22 Asia/Jakarta] PHP Warning:  fopen(/home/kedaiolala/public_html/.well-known.zip): failed to open stream: No such file or directory in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 5
+[06-Jun-2020 11:45:22 Asia/Jakarta] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 6
+[06-Jun-2020 11:45:22 Asia/Jakarta] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 7
+[06-Jun-2020 11:45:45 Asia/Jakarta] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[06-Jun-2020 11:45:45 Asia/Jakarta] PHP Warning:  file_get_contents(http://abaya.faipagun.idxc.me/.well-known.zip): failed to open stream: no suitable wrapper could be found in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[06-Jun-2020 11:45:45 Asia/Jakarta] PHP Warning:  fopen(/home/kedaiolala/public_html/.well-known.zip): failed to open stream: No such file or directory in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 5
+[06-Jun-2020 11:45:45 Asia/Jakarta] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 6
+[06-Jun-2020 11:45:45 Asia/Jakarta] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 7
+[06-Jun-2020 11:46:07 Asia/Jakarta] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[06-Jun-2020 11:46:07 Asia/Jakarta] PHP Warning:  file_get_contents(http://abaya.faipagun.idxc.me/.well-known.zip): failed to open stream: no suitable wrapper could be found in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[06-Jun-2020 11:46:07 Asia/Jakarta] PHP Warning:  fopen(/home/kedaiolala/public_html/.well-known.zip): failed to open stream: No such file or directory in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 5
+[06-Jun-2020 11:46:07 Asia/Jakarta] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 6
+[06-Jun-2020 11:46:07 Asia/Jakarta] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 7
+[09-Jun-2020 05:16:24 Asia/Jakarta] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[09-Jun-2020 05:16:24 Asia/Jakarta] PHP Warning:  file_get_contents(http://abaya.faipagun.idxc.me/.well-known.zip): failed to open stream: no suitable wrapper could be found in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[09-Jun-2020 05:16:24 Asia/Jakarta] PHP Warning:  fopen(/home/kedaiolala/public_html/.well-known.zip): failed to open stream: No such file or directory in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 5
+[09-Jun-2020 05:16:24 Asia/Jakarta] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 6
+[09-Jun-2020 05:16:24 Asia/Jakarta] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 7
+[09-Jun-2020 05:16:42 Asia/Jakarta] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[09-Jun-2020 05:16:42 Asia/Jakarta] PHP Warning:  file_get_contents(http://abaya.faipagun.idxc.me/.well-known.zip): failed to open stream: no suitable wrapper could be found in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[09-Jun-2020 05:16:42 Asia/Jakarta] PHP Warning:  fopen(/home/kedaiolala/public_html/.well-known.zip): failed to open stream: No such file or directory in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 5
+[09-Jun-2020 05:16:42 Asia/Jakarta] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 6
+[09-Jun-2020 05:16:42 Asia/Jakarta] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 7
+[09-Jun-2020 05:17:07 Asia/Jakarta] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[09-Jun-2020 05:17:07 Asia/Jakarta] PHP Warning:  file_get_contents(http://abaya.faipagun.idxc.me/.well-known.zip): failed to open stream: no suitable wrapper could be found in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 3
+[09-Jun-2020 05:17:07 Asia/Jakarta] PHP Warning:  fopen(/home/kedaiolala/public_html/.well-known.zip): failed to open stream: No such file or directory in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 5
+[09-Jun-2020 05:17:07 Asia/Jakarta] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 6
+[09-Jun-2020 05:17:07 Asia/Jakarta] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/kedaiola/tarakan.kedaiolala.com/upload.php on line 7
+[13-Jul-2020 00:55:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method Public_model::getsGaleri() in /home/kedaiola/tarakan.kedaiolala.com/application/controllers/Kedaionlinetarakan.php on line 28
+[13-Feb-2021 11:56:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home/kedaiola/tarakan.kedaiolala.com/application/views/templates/mobile/view_info.php on line 5
+[17-Feb-2021 17:41:30 Asia/Jakarta] PHP Fatal error:  Call to undefined method Public_model::getsGaleri() in /home/kedaiola/tarakan.kedaiolala.com/application/controllers/Kedaionlinetarakan.php on line 28

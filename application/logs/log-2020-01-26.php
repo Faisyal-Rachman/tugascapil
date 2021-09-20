@@ -1,0 +1,43 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-01-26 01:09:04 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-01-26 01:09:04 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-01-26 01:09:04 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-01-26 01:09:04 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-01-26 01:09:07 --> 404 Page Not Found: /index
+ERROR - 2020-01-26 01:09:19 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-01-26 01:09:19 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-01-26 01:09:19 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-01-26 01:09:19 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-01-26 01:09:23 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-01-26 01:09:23 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-01-26 01:09:23 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-01-26 01:09:23 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-01-26 01:09:27 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-01-26 01:09:27 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-01-26 01:09:27 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-01-26 01:09:27 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-01-26 04:18:21 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-01-26 04:18:21 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-01-26 04:18:21 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-01-26 04:18:21 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-01-26 04:18:22 --> 404 Page Not Found: /index
+ERROR - 2020-01-26 06:15:46 --> 404 Page Not Found: /index
+ERROR - 2020-01-26 13:19:10 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-01-26 13:19:10 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-01-26 13:19:10 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-01-26 13:19:10 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-01-26 13:19:16 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-01-26 13:19:16 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-01-26 13:19:16 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-01-26 13:19:16 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-01-26 13:19:18 --> 404 Page Not Found: /index
+ERROR - 2020-01-26 13:19:30 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-01-26 13:19:30 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-01-26 13:19:30 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-01-26 13:19:30 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-01-26 20:28:43 --> 404 Page Not Found: /index
+ERROR - 2020-01-26 20:28:54 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-01-26 20:28:54 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-01-26 20:28:54 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-01-26 20:28:54 --> Could not find the language line "pagination_last_link"

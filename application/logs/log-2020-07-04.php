@@ -1,0 +1,18 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-04 08:05:05 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-07-04 08:05:05 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-07-04 08:05:05 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-07-04 08:05:05 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-07-04 09:01:19 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-07-04 09:01:19 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-07-04 09:01:19 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-07-04 09:01:19 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-07-04 21:47:08 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-07-04 21:47:08 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-07-04 21:47:08 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-07-04 21:47:08 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-07-04 21:58:12 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-07-04 21:58:12 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-07-04 21:58:12 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-07-04 21:58:12 --> Could not find the language line "pagination_last_link"

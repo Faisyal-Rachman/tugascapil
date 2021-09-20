@@ -1,0 +1,53 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-05-24 06:47:44 --> 404 Page Not Found: /index
+ERROR - 2020-05-24 07:33:40 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-05-24 07:33:40 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-05-24 07:33:40 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-05-24 07:33:40 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-05-24 07:34:37 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-05-24 07:34:37 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-05-24 07:34:37 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-05-24 07:34:37 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-05-24 08:02:07 --> 404 Page Not Found: 
+ERROR - 2020-05-24 08:04:54 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-05-24 08:04:54 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-05-24 08:04:54 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-05-24 08:04:54 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-05-24 08:10:36 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-05-24 08:10:36 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-05-24 08:10:36 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-05-24 08:10:36 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-05-24 08:23:14 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-05-24 08:23:14 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-05-24 08:23:14 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-05-24 08:23:14 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-05-24 08:23:16 --> 404 Page Not Found: /index
+ERROR - 2020-05-24 08:23:44 --> 404 Page Not Found: /index
+ERROR - 2020-05-24 09:10:57 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-05-24 09:10:57 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-05-24 09:10:57 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-05-24 09:10:57 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-05-24 09:10:58 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-05-24 09:10:58 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-05-24 09:10:58 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-05-24 09:10:58 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-05-24 10:14:01 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-05-24 10:14:01 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-05-24 10:14:01 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-05-24 10:14:01 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-05-24 14:24:16 --> 404 Page Not Found: /index
+ERROR - 2020-05-24 14:24:17 --> 404 Page Not Found: /index
+ERROR - 2020-05-24 18:03:18 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-05-24 18:03:18 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-05-24 18:03:18 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-05-24 18:03:18 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-05-24 19:40:50 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-05-24 19:40:50 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-05-24 19:40:50 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-05-24 19:40:50 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-05-24 22:50:44 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-05-24 22:50:44 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-05-24 22:50:44 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-05-24 22:50:44 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-05-24 23:40:13 --> 404 Page Not Found: /index

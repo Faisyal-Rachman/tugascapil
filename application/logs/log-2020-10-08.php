@@ -1,0 +1,28 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-08 02:57:06 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-10-08 02:57:06 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-10-08 02:57:06 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-10-08 02:57:06 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-10-08 08:06:05 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-10-08 08:06:05 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-10-08 08:06:05 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-10-08 08:06:05 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-10-08 10:33:53 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-10-08 10:33:53 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-10-08 10:33:53 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-10-08 10:33:53 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-10-08 10:34:02 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-10-08 10:34:02 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-10-08 10:34:02 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-10-08 10:34:02 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-10-08 14:18:22 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-10-08 14:18:22 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-10-08 14:18:22 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-10-08 14:18:22 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-10-08 15:03:06 --> Could not find the language line "pagination_first_link"
+ERROR - 2020-10-08 15:03:06 --> Could not find the language line "pagination_next_link"
+ERROR - 2020-10-08 15:03:06 --> Could not find the language line "pagination_prev_link"
+ERROR - 2020-10-08 15:03:06 --> Could not find the language line "pagination_last_link"
+ERROR - 2020-10-08 20:52:35 --> 404 Page Not Found: /index
+ERROR - 2020-10-08 20:52:36 --> 404 Page Not Found: /index
